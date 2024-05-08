@@ -1,1 +1,3 @@
-# HR-Analytics-dashboard
+Thrilled to share my  project: an HR Attrition Analytics Dashboard leveraging the power of Tableau!  Delve into comprehensive insights on attrition rates by gender, department, and more, empowering organizations to make informed decisions for talent retention strategies. 
+Utilizing a myriad of Tableau features, from dynamic bar and pie charts to sophisticated calculated fields and parameters, this dashboard exemplifies my proficiency in data visualization and analysis. Each visualization meticulously crafted to offer actionable insights, driving impactful HR strategies.
+As organizations navigate the challenges of talent retention, this dashboard serves as a vital tool in understanding attrition patterns and addressing underlying factors. By harnessing data-driven approaches, we pave the path for fostering a resilient and engaged workforce.
